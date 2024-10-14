@@ -8,8 +8,11 @@ Now that you are here, here are a few things to note so you know you're on the r
 
 - [ ] 📚 Read our guides for data science and open research
 - [ ] 🧑‍🤝‍🧑 Join our Comms Channel - [Discord](https://discord.gg/9Mx2fMjS4g)
-- [ ] ☎️ Join an upcoming community call or workshop (NB: This list is being updated):
+- [ ] ☎️ Join an upcoming community call or workshop:
   - [ ] DWSB Open Science and Capacity Workgroup [Meeting Link](https://bit.ly/Open-Science-Capacity-Work-Group-Meeting)
 - [ ] 📣 Check out an Issue or Pull Request
 - [ ] 🫂 Subscribe to our newsletter 
 - [ ] 👩‍💻 Remember to read our Contribution guidelines and Code of Conduct
+
+
+**(NB: This list is being updated)**
