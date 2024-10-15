@@ -15,4 +15,4 @@ Now that you are here, here are a few things to note so you know you're on the r
 - [ ] 👩‍💻 Remember to read our Contribution guidelines and Code of Conduct
 
 
-**(NB: This list is being updated)**
+**(NB: This repository is continually being updated.)**
