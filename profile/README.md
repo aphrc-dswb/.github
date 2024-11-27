@@ -1,8 +1,8 @@
 # Hello👋, this is The Data Science Without Borders (DSWB) Project
 
-We are a project by the APHRC, short for African Population and Health Research Center. We all call it APHRC, so feel free to just stick to that. 
+This is the Data Science Without Borders Project GitHub organisation. 
 
-Now that you are here, here are a few things to note so you know you're on the right track.
+Welcome! Now that you are here, here are a few things to note so you know you are on the right track.
 
 **Your Checklist:**
 
