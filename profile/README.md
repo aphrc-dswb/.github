@@ -1,10 +1,10 @@
-# Hello👋, this is The Data Science Without Borders (DSWB) Project's GitHub Organisation
+# Welcome to The Data Science Without Borders (DSWB) Project's GitHub Organisation!👋
 
-Here you will find different GitHub repositories with resources to support and manage projects under the DSWB Project.
+In this GitHub organisation, you will find different GitHub repositories with resources to support and manage projects under the DSWB Project.
 
-When creating new repositories, please ensure that your project repository is related to DSWB.
+When creating new repositories, please ensure your project repository is related to DSWB.
 
-Welcome! Now that you are here, here are a few things to note so you know you are on the right track.
+Here are a few things to note so you know you are on the right track.
 
 **Your Checklist:**
 
